@@ -87,7 +87,11 @@ Tambahkan element div lainnya seteleah div3 seperti berikut.
 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
 
+# ![1](https://user-images.githubusercontent.com/56498195/115260226-c343dd80-a15c-11eb-87e3-640da3fcae37.PNG)
 
+# ![2](https://user-images.githubusercontent.com/56498195/115260261-cccd4580-a15c-11eb-8566-d0c19a823d67.PNG)
+
+# ![3](https://user-images.githubusercontent.com/56498195/115260268-ce970900-a15c-11eb-9033-10ffcdceda0e.PNG)
 
 
 
