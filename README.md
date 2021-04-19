@@ -4,7 +4,7 @@
 # Nim  : 311910130
 # Kelas : TI.19.A.1
 
-# Praktikum 4: CSS Layout
+                                # Praktikum 4: CSS Layout
 
 
 # Web Layout
@@ -36,4 +36,8 @@ Tambahkan element div lainnya seteleah div3 seperti berikut.
 
 
 ![Mengatur Clearfix Element 2](https://user-images.githubusercontent.com/56498195/115241638-42c8b100-a14b-11eb-83d1-8f4958792ddd.PNG)
+
+
+
+# Membuat Layout Sederhana
 
