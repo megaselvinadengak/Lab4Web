@@ -51,7 +51,7 @@ Tambahkan element div lainnya seteleah div3 seperti berikut.
 
 
 # Membuat Navigasi
-Kemudian selanjutnya mengatur navigasi.
+
 
 ![membuat navigasi](https://user-images.githubusercontent.com/56498195/115242804-70622a00-a14c-11eb-90d2-808dca56a077.PNG)
 
