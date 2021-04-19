@@ -56,6 +56,39 @@ Kemudian selanjutnya mengatur navigasi.
 ![membuat navigasi](https://user-images.githubusercontent.com/56498195/115242804-70622a00-a14c-11eb-90d2-808dca56a077.PNG)
 
 
+# Membuat Hero Panel.
+
+
+![membuat hero panel](https://user-images.githubusercontent.com/56498195/115243166-d353c100-a14c-11eb-8f27-1db180427a04.PNG)
+
+
+# Mengatur Layout Main dan Sidebar
+
+![membuat sidebat widget](https://user-images.githubusercontent.com/56498195/115243397-16159900-a14d-11eb-8405-8ed6bf366f00.PNG)
+
+
+# Mengatur Footer
+![mengatur footer](https://user-images.githubusercontent.com/56498195/115243515-35acc180-a14d-11eb-8fcd-789f0d3650c7.PNG)
+
+
+# Menambahkan Elemen lainnya pada Main Content
+![Menambahkan Elemen lainnya pada Main Content](https://user-images.githubusercontent.com/56498195/115243640-570dad80-a14d-11eb-89ca-ecb615f02816.PNG)
+
+
+# Menambahkan Content Artikel
+![Menambahkan Content Artikel](https://user-images.githubusercontent.com/56498195/115243799-7e647a80-a14d-11eb-82ea-14e72b43d3c4.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
