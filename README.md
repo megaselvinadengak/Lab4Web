@@ -79,6 +79,21 @@ Tambahkan element div lainnya seteleah div3 seperti berikut.
 ![Menambahkan Content Artikel](https://user-images.githubusercontent.com/56498195/115243799-7e647a80-a14d-11eb-82ea-14e72b43d3c4.PNG)
 
 
+# membuat kontak
+![cara membuat kontak 1](https://user-images.githubusercontent.com/56498195/115438916-2d7d8080-a238-11eb-872b-53c959c46b2a.PNG)
+
+# ![cara membuat kontak 2](https://user-images.githubusercontent.com/56498195/115438925-32423480-a238-11eb-97c5-a8fbc09fde95.PNG)
+
+# ![cara membuat kontak 3](https://user-images.githubusercontent.com/56498195/115438943-38d0ac00-a238-11eb-92c9-b4ed54b2cb9d.PNG)
+
+# ![kontak](https://user-images.githubusercontent.com/56498195/115438966-3e2df680-a238-11eb-8e63-547547be33b1.PNG)
+
+# membuat About
+![cara membuat about](https://user-images.githubusercontent.com/56498195/115439208-84835580-a238-11eb-8c59-9f44252e715f.PNG)
+
+# ![about](https://user-images.githubusercontent.com/56498195/115439203-82b99200-a238-11eb-8488-2028dd723c10.PNG)
+
+
 
 
 # Pertanyaan dan Tugas
